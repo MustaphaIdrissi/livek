@@ -1,0 +1,33 @@
+
+@media (max-width: 992.98px) {   .tigglel{
+    display: flex;
+}
+.logo{
+text-align: center;
+}
+.shobar{
+    position: absolute;
+    top: 0px;
+    right: -403px;
+    background-color: var(--backgroundorgin2);
+    width: 162px;
+    text-align: right;
+    padding: 14px;
+    height: 100vh;
+z-index: 99999;
+}
+.active{
+margin-left: 0px;
+right: 0px!important;
+}
+
+
+.match1,.match2{
+    width: 60px;
+    margin: 0;
+}
+
+
+
+}
+
